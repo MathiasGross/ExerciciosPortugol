@@ -10,7 +10,7 @@ O repositório está organizado em duas etapas principais de aprendizado:
 
 ### 🇧🇷 [Portugol](./Portugol)
 Esta pasta contém a minha base de tudo. Foi onde dei os primeiros passos na programação, focando puramente em **Lógica de Programação** e **Algoritmos** sem me preocupar com as complexidades de uma linguagem de mercado.
-*   **Ferramenta utilizada:** Portugol Studio.
+*   **Ferramenta utilizada:** Portugol Studio e VS CODE ( Extenção "Design Líquido").
 *   **O que você vai encontrar aqui:**
     *   Estruturas Sequênciais.
     *   Estruturas condicionais (`se`, `senao`).
