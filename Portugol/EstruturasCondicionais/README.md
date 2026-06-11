@@ -50,11 +50,11 @@ Com base no conteúdo descrevido acima, crie uma lista com 20 exercícios com gr
 							Nível 3: Operadores Lógicos e Múltiplas Condições
 					Aqui você começa a usar os operadores E (AND), OU (OR) e NÃO (NOT).
 
-10 - Intervalo Numérico: Peça um número e verifique se ele está entre 10 e 50 (inclusive).
+11- - Intervalo Numérico: Peça um número e verifique se ele está entre 10 e 50 (inclusive).
 
-11 - Triângulo Válido: Receba três lados de um triângulo ($A$, $B$ e $C$). Para formar um triângulo, a soma de dois lados deve ser sempre maior que o terceiro lado. Verifique se os lados formam um triângulo.
+12 - Triângulo Válido: Receba três lados de um triângulo ($A$, $B$ e $C$). Para formar um triângulo, a soma de dois lados deve ser sempre maior que o terceiro lado. Verifique se os lados formam um triângulo.
 
-12 - Classificação de Aluno: Receba a nota de um aluno.
+13 - Classificação de Aluno: Receba a nota de um aluno.
 
 Se for menor que 5: "Reprovado".
 
@@ -62,25 +62,25 @@ Se for entre 5 e 6.9: "Recuperação".
 
 Se for 7 ou mais: "Aprovado".
 
-13 - Ano Bissexto: Receba um ano e diga se ele é bissexto. (Regra: Divisível por 4 E não divisível por 100, OU divisível por 400).
+14 - Ano Bissexto: Receba um ano e diga se ele é bissexto. (Regra: Divisível por 4 E não divisível por 100, OU divisível por 400).
 
-14 - Aprovação por Nota e Frequência: Para passar de ano, o aluno precisa de média maior ou igual a 7.0 E frequência maior ou igual a 75%. Receba esses dois dados e dê o veredito.
+15 - Aprovação por Nota e Frequência: Para passar de ano, o aluno precisa de média maior ou igual a 7.0 E frequência maior ou igual a 75%. Receba esses dois dados e dê o veredito.
 
 							Nível 4: Condicionais Aninhadas e Lógica Avançada
 			Desafios que exigem colocar estruturas condicionais dentro de outras (se dentro de se).
 
-15 - Tipo de Triângulo: Modifique o exercício 12. Se os lados formarem um triângulo válido, diga se ele é Equilátero (3 lados iguais), Isósceles (2 lados iguais) ou Escaleno (todos os lados diferentes).
+16 - Tipo de Triângulo: Modifique o exercício 12. Se os lados formarem um triângulo válido, diga se ele é Equilátero (3 lados iguais), Isósceles (2 lados iguais) ou Escaleno (todos os lados diferentes).
 
-16 - Índice de Massa Corporal (IMC): Calcule o IMC {peso} / {altura*altura} e classifique o usuário em: 
+17 - Índice de Massa Corporal (IMC): Calcule o IMC {peso} / {altura*altura} e classifique o usuário em: 
 
 Abaixo do peso.
 Peso normal.
 Sobrepeso.
 Obesidade.
 
-17 - Calculadora Simples: Peça dois números e um caractere que represente a operação matemática (+, -, *, /). Execute a operação correspondente. Atenção: Se a operação for divisão, garanta que o segundo número não seja zero!.
+18 - Calculadora Simples: Peça dois números e um caractere que represente a operação matemática (+, -, *, /). Execute a operação correspondente. Atenção: Se a operação for divisão, garanta que o segundo número não seja zero!.
 
-18 - Aumento Salarial Progressivo: Receba o salário de um funcionário e aplique o aumento baseado na tabela:
+19 - Aumento Salarial Progressivo: Receba o salário de um funcionário e aplique o aumento baseado na tabela:
 
 Salários até R$ 1.500,00: aumento de 20%
 
