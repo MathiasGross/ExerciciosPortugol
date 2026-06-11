@@ -56,6 +56,8 @@ Construa um algoritmo que leia a idade de uma pessoa expressa apenas em anos e e
 13. Conversor de Temperatura
 Escreva um programa que converta uma temperatura digitada em graus Celsius (°C) para graus Fahrenheit (°F). A fórmula é:
 
+\(F = (C * 1,8) + 32\) \ C = (F - 32 / 1.8)
+
 14. Média Ponderada
 Crie um algoritmo que leia duas notas de um aluno. A primeira nota tem peso 2 e a segunda nota tem peso 3. Calcule e exiba a média ponderada do aluno.
 
