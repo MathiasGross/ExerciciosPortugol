@@ -4,7 +4,7 @@
 
 **Prompt enviado
 
-## 3. Estruturas Condicionais (Tomada de Decisão)
+## Estruturas Condicionais (Tomada de Decisão)
 
 * **O que é:** O momento em que seu programa ganha "inteligência" para escolher diferentes caminhos baseados em condições.
 
