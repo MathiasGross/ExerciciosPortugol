@@ -71,7 +71,8 @@ Um programa de aluguel de carros cobra R$ 60,00 por dia de locação e R$ 0,15 p
 Faça um algoritmo que leia dois valores inteiros para as variáveis A e B. O programa deve trocar os valores das variáveis, de modo que A passe a ter o valor de B e B passe a ter o valor de A. Exiba os valores antes e depois da troca (Dica: use uma variável auxiliar).
 
 17. Divisão e Resto
-Crie um programa que leia dois números inteiros (dividendo e divisor). Calcule e exiba: o resultado da divisão inteira e o resto da divisão (operador %).
+Crie um programa que leia dois números inteiros (dividendo e divisor). 
+Calcule e exiba: o resultado da divisão inteira e o resto da divisão (operador %).
 
 18. Conversor de Segundos
 Desenvolva um programa que leia um evento de fábrica expresso em segundos e exiba-o formatado em horas, minutos e segundos.
